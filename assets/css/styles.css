@@ -455,16 +455,16 @@ text-align: center;
     background-color: var(--first-color);
 }
 .skills__html{
-    width: 60%;
+    width: 90%;
 }
 .skills__css{
     width: 70%;
 }
 .skills__js{
-    width: 50%;
+    width: 70%;
 }
 .skills__react{
-    width: 85%;
+    width: 65%;
 }
 .skills__php{
     width: 40%;
@@ -479,13 +479,16 @@ text-align: center;
     width: 55%;
 }
 .skills__figma{
-    width: 50%;
+    width: 70%;
 }
 .skills__inkscape{
     width: 70%;
 }
 .skills__photoshop{
     width: 85%;
+}
+.skills__bootstrap{
+    width:55%
 }
 .skills__close .skills__list{
     height: 0;
