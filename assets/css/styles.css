@@ -454,6 +454,7 @@ text-align: center;
     display: block;
     background-color: var(--first-color);
 }
+/*frontend*/
 .skills__html{
     width: 90%;
 }
@@ -461,23 +462,16 @@ text-align: center;
     width: 70%;
 }
 .skills__js{
-    width: 70%;
+    width: 80%;
 }
 .skills__react{
     width: 65%;
 }
-.skills__php{
-    width: 40%;
+
+.skills__bootstrap{
+    width:55%
 }
-.skills__csharp{
-    width: 60%;
-}
-.skills__sql{
-    width: 50%;
-}
-.skills__python{
-    width: 55%;
-}
+/*design graphic*/
 .skills__figma{
     width: 70%;
 }
@@ -487,8 +481,21 @@ text-align: center;
 .skills__photoshop{
     width: 85%;
 }
-.skills__bootstrap{
-    width:55%
+/*backend*/
+.skills__mongoose{
+    width: 60%;
+}
+.skills__npm{
+    width: 50%;
+}
+.skills__node{
+    width: 50%;
+}
+.skills__mongodb{
+    width:50%
+}
+.skills__express{
+    width: 50%;
 }
 .skills__close .skills__list{
     height: 0;
